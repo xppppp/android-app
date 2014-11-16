@@ -23,4 +23,13 @@
     <string name="txtGlobalToken"><b><u>Globales API Token:</u></b></string>
     <string name="txtAPIUsername"><b><u>Deine User ID:</u></b></string>
     <string name="txtAPIToken"><b><u>Dein Token:</u></b></string>
+    <string name="txtAPIRealUsername"><b><u>Your username</u></b></string>
+    <string name="txtAPIPassword"><b><u>Your password</u></b></string>
+    <string name="txtAddPageFailedStatus"><b><u>Web service error </u></b></string>
+    <string name="txtAddPageFailedProto"><b><u>Protocol error. </u></b></string>
+    <string name="txtAddPageFailedIO"><b><u>General error.</u></b></string>
+    <string name="txtAddPageFailedJSON"><b><u>Invalid server response.</u></b></string>
+    <string name="txtAddPageDone"><b><u>Page add</u></b></string>
+    <string name="txtAddPageFailed"><b><u>Page add failed</u></b></string>
+    <string name="version">1.5.3.2-xppppp</string>
 </resources>
