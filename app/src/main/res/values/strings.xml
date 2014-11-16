@@ -31,4 +31,5 @@
     <string name="txtAddPageFailedJSON"><b><u>Invalid server response.</u></b></string>
     <string name="txtAddPageDone"><b><u>Page add</u></b></string>
     <string name="txtAddPageFailed"><b><u>Page add failed</u></b></string>
+    <string name="version">1.5.3.3-xppppp</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest
+<manifest android:versionCode="9"
+    android:versionName="@string/version"
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="fr.gaulupeau.apps.InThePoche" >
 
